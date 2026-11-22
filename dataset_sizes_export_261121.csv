@@ -1,0 +1,113 @@
+ID,First Author,Volume (mm3),Reconstruction,Species,DOI,Publication date,Related-ID
+1,Macagno,0.000080,manual,Daphnia magna,10.1073/pnas.70.1.57,1973-01-01,0
+2,Albertson,0.000056,manual,C elegans,10.1098/rstb.1976.0085,1976-08-10,0
+3,White,0.000158,manual,C elegans,10.1098/rstb.1976.0086,1976-08-10,0
+4,McGuire,0.000168,manual,Cat,10.1523/JNEUROSCI.04-12-02920.1984,1984-12-01,0
+5,White,0.000225,manual,C elegans,10.1098/RSTB.1986.0056,1986-11-12,0
+6,Freed,0.000032,manual,Cat,10.1002/cne.902660310,1987-12-15,0
+7,Freed,0.000288,manual,Cat,10.1523/JNEUROSCI.08-07-02303.1988,1988-07-01,0
+8,Strettoi,0.000048,manual,Rabbit,10.1002/cne.902950308,1990-05-08,0
+9,Cohen,0.000056,manual,Cat,10.1098/rstb.1990.0201,1990-11-29,0
+10,Hall,0.000018,manual,C elegans,10.1523/JNEUROSCI.11-01-00001.1991,1991-01-01,0
+11,Meinertzhagen,0.000012,manual,Drosophila,10.1002/cne.903050206,1991-03-08,0
+12,Calkins,0.000113,manual,Macaque,10.1038/371070a0,1994-09-01,0
+13,Tsukamoto,0.000089,manual,Mouse,10.1523/JNEUROSCI.21-21-08616.2001,2001-11-01,0
+14,Chen,0.000225,manual,C elegans,10.1073/pnas.0506806103,2006-03-21,5
+15,Takemura,0.000029,manual,Drosophila,10.1002/cne.21757,2008-08-10,0
+16,Anderson,0.001875,manual,Rabbit,0,2011-02-03,0
+17,Varshney,0.000225,manual,C elegans,10.1371/journal.pcbi.1001066,2011-02-03,5
+18,Bock,0.007425,manual,Mouse,10.1038/nature09802,2011-03-09,0
+19,Briggman,0.007350,manual,Mouse,10.1038/nature09818,2011-03-09,0
+20,Rivera-Alba,0.000003,semi-automated,Drosophila,10.1016/j.cub.2011.10.022,2011-12-06,0
+21,Bumbarger,0.000113,manual,P pacificus,10.1016/j.cell.2012.12.013,2013-01-17,0
+22,Helmstaedter,0.001204,manual,Mouse,10.1038/nature12346,2013-08-07,0
+23,Takemura,0.000097,semi-automated,Drosophila,10.1038/nature12450,2013-08-07,0
+24,Kim,0.007350,semi-automated,Mouse,10.1038/nature13240,2014-05-04,19
+25,Ohyama,0.000240,manual,Drosophila,10.1038/nature14297,2015-04-20,0
+26,Randel,0.001620,manual,Platynereis dumerilii,10.7554/eLife.08069,2015-06-10,0
+27,Kasthuri,0.000080,semi-automated,Mouse,10.1016/j.cell.2015.06.054,2015-07-30,0
+28,Takemura,0.000128,semi-automated,Drosophila,10.1073/pnas.1509820112,2015-11-03,0
+29,Morgan,0.067200,manual,Mouse,10.1016/j.cell.2016.02.033,2016-03-24,0
+30,Lee,0.030375,manual,Mouse,10.1038/nature17192,2016-03-28,0
+31,Wanner,0.000918,manual,Zebrafish,10.1038/nn.4290,2016-04-18,0
+32,Ding,0.002730,manual,Mouse,10.1038/nature18609,2016-06-22,0
+33,Ryan,0.000060,manual,Ciona intestinalis,10.7554/eLife.16962,2016-12-06,0
+34,Kornfeld,0.002122,manual,Zebrafinch,10.7554/eLife.24364,2017-03-27,0
+35,Takemura,0.000128,semi-automated,Drosophila,10.7554/eLife.24394,2017-04-22,28
+36,Hildebrand,0.075000,manual,Zebrafish,10.1038/nature22356,2017-05-07,0
+37,Takemura,0.000240,semi-automated,Drosophila,10.7554/eLife.26975,2017-07-18,0
+38,Schmidt,0.049840,manual,Rat,10.1038/nature24005,2017-09-20,0
+39,Schmidt,0.003961,manual,Rat,10.1038/nature24005,2017-09-20,0
+40,Bloss,0.001020,manual,Mouse,10.1038/s41593-018-0084-6,2018-02-19,0
+41,Svara,0.001134,manual,Zebrafish,10.1016/j.celrep.2018.05.023,2018-06-05,0
+42,Drawitsch,0.001216,manual,Mouse,10.7554/eLife.38976,2018-08-14,0
+43,Zheng,0.027800,manual,Drosophila,10.1016/j.cell.2018.06.019,2018-07-19,0
+44,Motta,0.000548,manual,Mouse,10.1126/science.aay3134,2018-11-03,0
+45,Karimi,0.000875,manual,Mouse,10.7554/eLife.46876,2019-03-15,0
+46,Karimi,0.000899,manual,Mouse,10.7554/eLife.46876,2019-03-15,0
+47,Karimi,0.001050,manual,Mouse,10.7554/eLife.46876,2019-03-15,0
+48,Karimi,0.000917,manual,Mouse,10.7554/eLife.46876,2019-03-15,0
+49,Cook,0.000225,manual,C elegans,10.1038/s41586-019-1352-7,2019-07-03,5
+50,Cook,0.000225,manual,C elegans,10.1038/s41586-019-1352-7,2019-07-03,0
+51,Wilson,0.001134,manual,Mouse,10.1016/j.celrep.2019.10.081,2019-11-26,0
+52,Wilson,0.001720,semi-automated,Mouse,10.1016/j.celrep.2019.10.081,2019-11-26,0
+53,Microns,0.003150,semi-automated,Mouse,10.7554/eLife.76120; 10.7554/eLife.73783; 10.1016/j.cell.2022.01.023,2019-12-31,0
+54,Kornfeld,0.001073,semi-automated,Zebrafinch,10.1101/2020.02.18.954354,2020-02-19,0
+55,Scheffer,0.010783,semi-automated,Drosophila,10.7554/eLife.57443,2020-04-07,0
+56,Witvliet,0.000005,manual,C elegans,10.1038/s41586-021-03778-8,2020-04-30,0
+57,Witvliet,0.000004,manual,C elegans,10.1038/s41586-021-03778-8,2020-04-30,0
+58,Witvliet,0.000003,manual,C elegans,10.1038/s41586-021-03778-8,2020-04-30,0
+59,Witvliet,0.000005,manual,C elegans,10.1038/s41586-021-03778-8,2020-04-30,0
+60,Witvliet,0.000015,manual,C elegans,10.1038/s41586-021-03778-8,2020-04-30,0
+61,Witvliet,0.000015,manual,C elegans,10.1038/s41586-021-03778-8,2020-04-30,0
+62,Witvliet,0.000052,manual,C elegans,10.1038/s41586-021-03778-8,2020-04-30,0
+63,Witvliet,0.000074,manual,C elegans,10.1038/s41586-021-03778-8,2020-04-30,0
+64,Vishwanathan,0.002400,semi-automated,Zebrafish,10.1101/2020.10.28.359620,2020-10-28,0
+65,Dorkenwald,0.027800,semi-automated,Drosophila,10.1038/s41592-021-01330-0,2020-08-30,43
+66,Phelps,0.016400,semi-automated,Drosophila,10.1016/j.cell.2020.12.013,2020-11-01,0
+67,Gour,0.001070,manual,Mouse,10.1126/science.abb4534,2020-12-03,0
+68,Shapson-Coe,0.728400,semi-automated,Human,10.1126/science.adk4858,2021-05-29,0
+69,Microns,0.682600,semi-automated,Mouse,10.1038/s41586-025-08790-w,2021-07-29,0
+70,Microns,0.152274,semi-automated,Mouse,0.60533/BOSS-2021-T0SY,2021-07-29,0
+71,Microns,0.016486,semi-automated,Mouse,10.60533/BOSS-2019-QF8A,2021-07-29,0
+72,Nguyen,0.044160,semi-automated,Mouse,10.1038/s41586-022-05471-w,2021-11-30,0
+73,Kuan,0.084000,manual,Mouse,10.1038/s41586-024-07088-7,2022-04-13,0
+74,Hua,0.035062,manual,Mouse,10.1016/j.celrep.2022.111476,2022-06-01,0
+75,Loomba,0.001860,manual,Mouse,10.1126/science.abo0924,2022-06-23,0
+76,Loomba,0.003859,manual,Macaque,10.1126/science.abo0924,2022-06-23,0
+77,Loomba,0.003877,manual,Macaque,10.1126/science.abo0924,2022-06-23,0
+78,Loomba,0.004016,manual,Human,10.1126/science.abo0924,2022-06-23,0
+79,Loomba,0.002887,manual,Human,10.1126/science.abo0924,2022-06-23,0
+80,Svara,0.050400,semi-automated,Zebrafish,10.1038/s41592-022-01621-0,2022-10-24,0
+81,Bidel,0.002738,manual,Octopus,10.7554/eLife.84257,2022-10-08,0
+82,Azevedo,0.016400,semi-automated,Drosophila,10.1038/s41586-024-07389-x,2022-12-15,66
+83,Winding,0.000240,manual,Drosophila,10.1126/science.add9330,2023-03-10,25
+84,Han,0.000853,semi-automated,Mouse,10.1038/s41467-024-50411-z,2023-05-21,0
+85,Spirou,0.002589,semi-automated,Mouse,10.7554/eLife.83393,2023-05-27,0
+86,Takemura,0.014000,semi-automated,Drosophila,10.7554/eLife.97769,2023-06-06,0
+87,Dorkenwald,0.027800,semi-automated,Drosophila,10.1038/s41586-024-07558-y,2023-06-27,65
+88,Park,0.001068,semi-automated,Mouse,10.1101/2023.09.15.557147,2023-09-15,0
+89,Chua,0.000606,semi-automated,Megaphragma viggianii,10.1016/j.cub.2023.09.021,2023-11-06,0
+90,Wildenberg,0.000324,semi-automated,Mouse,10.1038/s41467-023-43088-3,2023-12-04,0
+91,Wildenberg,0.000237,semi-automated,Mouse,10.1038/s41467-023-43088-3,2023-12-04,0
+92,Wildenberg,0.000328,semi-automated,Mouse,10.1038/s41467-023-43088-3,2023-12-04,0
+93,Wildenberg,0.000608,semi-automated,Mouse,10.1038/s41467-023-43088-3,2023-12-04,0
+94,Wildenberg,0.000648,semi-automated,Mouse,10.1038/s41467-023-43088-3,2023-12-04,0
+95,Wildenberg,0.000181,semi-automated,Mouse,10.1038/s41467-023-43088-3,2023-12-04,0
+96,Wildenberg,0.000240,semi-automated,Macaque,10.1038/s41467-023-43088-3,2023-12-04,0
+97,Wildenberg,0.000631,semi-automated,Macaque,10.1038/s41467-023-43088-3,2023-12-04,0
+98,Wildenberg,0.000233,semi-automated,Macaque,10.1038/s41467-023-43088-3,2023-12-04,0
+99,Wildenberg,0.000225,semi-automated,Macaque,10.1038/s41467-023-43088-3,2023-12-04,0
+100,Tavakoli,0.000941,semi-automated,Mouse,10.1038/s41586-025-08985-1,2024-03-02,0
+101,Sievers,0.422500,semi-automated,Mouse,10.1101/2024.03.22.586254,2024-03-25,0
+102,Corteze,0.144873,manual,Mouse,10.1101/2025.04.04.647285,2025-04-05,0
+103,V1DD,0.855270,semi-automated,Mouse,10.1101/2025.04.24.649900,2025-04-24,0
+104,Petkova,0.100000,semi-automated,Zebrafish,10.1101/2025.06.10.658982,2025-06-15,0
+105,Zheng,0.092000,semi-automated,Mouse,10.1101/2025.07.09.663979,2025-07-15,0
+106,Bates,0.054432,semi-automated,Drosophila,10.1101/2025.07.31.667571,2025-08-01,0
+107,Kim,0.004860,semi-automated,Human,10.21203/rs.3.rs-7312705/v1,2025-04-07,0
+108,Berg,0.054000,semi-automated,Drosophila,10.1101/2025.10.09.680999,2025-10-09,0
+109,Rother,0.025166,semi-automated,Zebrafinch,10.1101/2025.10.25.684569,2025-10-27,0
+110,Gillet,0.001450,semi-automated,Sweat bee,10.64898/2026.02.25.708065,2026-02-28,0
+111,Stroeh,0.075000,semi-automated,Mouse,10.64898/2026.05.28.727403,2026-06-01,0
+112,Xiang,0.171000,semi-automated,Mouse,10.64898/2026.09.27.754691,2026-10-01,0
